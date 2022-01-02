@@ -1,6 +1,5 @@
 # selecting prime numbers in a list from 0 to n
 def listprime(n):
-    from math import sqrt
     a = 1
     array = []
     prime = []
